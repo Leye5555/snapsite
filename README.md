@@ -4,4 +4,4 @@
 
 #### link to live preview
 
-[Click to show preview](https://snapsite.github.com/leye5555/)
+[Click to show preview](https://leye5555.github.io/snapsite/)
